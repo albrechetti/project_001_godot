@@ -1,16 +1,9 @@
-# project_001_godot
+# Explorando a integração entre Godot e Flutter
 
-A new Flutter project.
+## Sobre o projeto
 
-## Getting Started
+Esse projeto é um estudo de integração entre o Godot e o Flutter, onde
+estarei explorando as possibilidades de criação de soluções de games dentro de aplicativos construídos em Flutter.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Artigo explicando como configuração a integração:
+[Artigo Medium](https://medium.com/@albrechetti/explorando-a-integra%C3%A7%C3%A3o-entre-godot-e-flutter-ampliando-horizontes-no-desenvolvimento-de-jogos-9216b42331de)
